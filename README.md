@@ -1,90 +1,60 @@
-### Assalamu'alaikum,
-### Hello world, I'm Erwin Wahyudi 
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/erwinwahyudi?v=3)
+
+<h3 align="center">
+        <samp>&gt;  Assalamu'alaikum... Hello World!, I am
+                <b><a target="_blank" href="#">「 Erwin Wahyudi 」</a></b>
+                  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+        </samp>
+</h3>
+<br/>
 
 <p align="center">
-  <img src="/images/programmer.gif" />
+  <img src="/images/programmer2.gif" height="300"/>
 </p>
 
-![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&ensp;![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)&ensp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<br/>
 
-<!-- ```dart
-import 'package:software_developer/erwinwahyudi.dart' from 'erwinwahyudi';
+### Connect With Me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erwinwahyudi)&ensp;[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/erwinwahyudi/)&ensp;[![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wahyudi.erwin/)&ensp;[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/erwinwhyd)&ensp;[![Codewees](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewees.com/)
+
+```dart
+import 'package:software_developer/erwinwahyudi.dart';
 
 class AboutMe extends SoftwareDeveloper {
   String name     = 'Erwin Wahyudi';
-  String work     = 'Software Developer | IT Consultant |Founder @codewees';
+  String work     = 'Software Developer | IT Consultant | Founder @codewees';
   String company  = 'codewees.com | @codewees';
   String location = 'Pontianak, Indonesia';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  List<String> mySkills       = ['Website Developer', 'Mobile Developer'];
+  List<String> languages      = ['PHP', 'Dart'];
+  List<String> loveFrameworks = ['Laravel', 'Flutter'];
 }
-``` -->
+```
 
 ### My Stack
 
-#### Languages:
+##### Skills
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&ensp;![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)&ensp;![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)&ensp;![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)&ensp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)&ensp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&ensp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&ensp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&ensp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)&ensp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&ensp;![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+##### UX/UI:
+&ensp;![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)&ensp;![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
-#### Application and Data:
+##### Utilities:
+&ensp;![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&ensp;![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&ensp;![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
-![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+##### DevOps:
+&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&ensp;![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-#### UX/UI:
+##### Business:
+&ensp;![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)&ensp;![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)&ensp;![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+##### Operating Systems
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)&ensp;![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat&logo=centos&logoColor=F0F0F0)&ensp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-#### Utilities:
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-#### DevOps:
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-
-#### Business:
-
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-
-
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
- </a>
-
-[linkedin]: https://www.linkedin.com/in/tassiaaccioly/
-[twitter]: https://www.twitter.com/itsmetherogue/
-[gmail]: mailto:tassia.accioly@gmail.com
-[medium]: https://tassiaaccioly.medium.com/
-[devto]: https://dev.to/tassiaaccioly
 
 
 
