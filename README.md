@@ -1,5 +1,6 @@
 <!-- Profile Views Counter
 ![Profile views](https://gpvc.arturio.dev/erwinwahyudi?v=3)
+ -->
 
  <h3 align="center">
         <samp>&gt; Hello World!, I'am
@@ -7,15 +8,17 @@
                   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
         </samp>
 </h3>
- -->
-<a href="https://app.daily.dev/erwinwahyudi"><img src="https://api.daily.dev/devcards/bee2010396ec4965acb9ab4f3f6188e0.png?r=it6" width="400" alt="Erwin Wahyudi's Dev Card"/></a>
-<br/>
 
+ <div align="center">
+<a href="https://app.daily.dev/erwinwahyudi"><img src="https://api.daily.dev/devcards/bee2010396ec4965acb9ab4f3f6188e0.png?r=it6" width="400" alt="Erwin Wahyudi's Dev Card"/></a>
+</div>
+<br/><br/>
+
+<!--
 <p align="center">
   <img src="/images/programmer2.gif" height="300"/>
 </p>
-
-<br/>
+-->
 
 ### Connect With Me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erwinwahyudi)&ensp;[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/erwinwahyudi/)&ensp;[![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wahyudi.erwin/)&ensp;[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/erwinwhyd)&ensp;[![Codewees](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewees.com/)
