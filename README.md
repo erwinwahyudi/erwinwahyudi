@@ -1,12 +1,14 @@
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter
 ![Profile views](https://gpvc.arturio.dev/erwinwahyudi?v=3)
 
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hello World!, I'am
                 <b>「<a target="_blank" href="#">Erwin Wahyudi</a>」</b>
                   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
         </samp>
 </h3>
+ -->
+<a href="https://app.daily.dev/erwinwahyudi"><img src="https://api.daily.dev/devcards/bee2010396ec4965acb9ab4f3f6188e0.png?r=it6" width="400" alt="Erwin Wahyudi's Dev Card"/></a>
 <br/>
 
 <p align="center">
